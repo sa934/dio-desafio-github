@@ -1,0 +1,10 @@
+Principais comandos para usar no Git Bash:
+
+- git init : inicializa um repositório na pasta atual
+- git add : faz a adição de um link/arquivo/repositório dentro daquela pasta
+- git commit : comita as alterações deixando o arquivo pronto para ser empurrado ao GitHub
+- git status: mostra em qual status aquele arquivo/repositório se encontra (untracked/tracked/modified/unmodified/stage)
+- git remote add origin + url : traz para o repositório remoto
+- git push origin: empurra o repositório/arquivo para o GitHub
+- git pull origin: puxa a versão mais recente do repositório/arquivo para a máquina local
+- git clone: clona um repositório do GitHub para a máquina local
